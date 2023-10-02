@@ -1,0 +1,79 @@
+body {
+  background: radial-gradient(purple, black);
+}
+
+h1 {
+  color: yellow;
+  font-family: georgia;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+  border: 1px solid orange;
+}
+
+th {
+  font-family: georgia;
+  font-size: 12pt;
+  color: red;
+}
+
+td {
+  font-family: georgia;
+  font-size: 12pt;
+  color: green;
+}
+
+ol {
+  font-family: georgia;
+  font-size: 12pt;
+}
+.text-p {
+  text-align: center;
+  font-family: georgia;
+  color: pink;
+  font-size: 16pt;
+  border: medium dashed green;
+  
+}
+
+.align-right {
+  display: block;
+  float:right;
+  
+}
+
+.align-left {
+  float: left;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.purchase {
+  font-family: georgia;
+  font-size: 12pt;
+}
+
+#logo {
+  background: linear-gradient(blue, brown)
+}
+
+#border-img {
+  border: brown 2px dotted;
+}
+
+img:hover {
+  transform: scale(0.95);
+}
+

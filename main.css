@@ -1,0 +1,79 @@
+body {
+  background: radial-gradient(white, gray);
+}
+
+h1 {
+  color: #2B35AF;
+  font-family: georgia;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+th {
+  font-family: georgia;
+  font-size: 12pt;
+  color: black;
+}
+
+td {
+  font-family: georgia;
+  font-size: 12pt;
+  color: #2B35AF;
+}
+
+ol {
+  font-family: georgia;
+  font-size: 12pt;
+}
+.text-p {
+  text-align: center;
+  font-family: georgia;
+  color: #2B35AF;
+  font-size: 16pt;
+  border: medium dashed red;
+  
+}
+
+.align-right {
+  display: block;
+  float:right;
+  
+}
+
+.align-left {
+  float: left;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.purchase {
+  font-family: georgia;
+  font-size: 12pt;
+}
+
+#logo {
+  background: linear-gradient(#2B35AF, white)
+}
+
+#border-img {
+  border: white 2px dotted;
+}
+
+img:hover {
+  transform: scale(0.95);
+}
+
